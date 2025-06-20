@@ -7,13 +7,13 @@ Peça dois números e mostre o maior.✅
 
 Peça uma nota de 0 a 10 e valide a entrada com while.✅
 
-Peça um número e diga se está entre 10 e 20.✅
+Peça um número e diga se está entre 10 e 20. ✅
 
-Faça um contador de 1 até 10 com for.
+Faça um contador de 1 até 10 com for. ✅
 
-Faça um contador de 10 até 1 com while.
+Faça um contador de 10 até 1 com while. ✅
 
-Peça um número e calcule o fatorial dele.
+Peça um número e calcule o fatorial dele.✅
 
 Imprima a tabuada de um número de 1 a 10.
 
