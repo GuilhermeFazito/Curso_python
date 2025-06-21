@@ -15,15 +15,15 @@ Faça um contador de 10 até 1 com while. ✅
 
 Peça um número e calcule o fatorial dele.✅
 
-Imprima a tabuada de um número de 1 a 10.
+Imprima a tabuada de um número de 1 a 10.✅
 
-Peça 5 números e exiba a média deles.
+Peça 5 números e exiba a média deles.✅
 
-Mostre todos os números pares de 1 a 50.
+Mostre todos os números pares de 1 a 50.✅
 
-Some os números de 1 a 100 com for.
+Some os números de 1 a 100 com for.✅
 
-Conte quantos números entre 1 e 100 são múltiplos de 3.
+Conte quantos números entre 1 e 100 são múltiplos de 3.✅
 
 Implemente um menu simples com while e if.
 
