@@ -1,3 +1,6 @@
+# Implemente um menu simples com while e if.
+
+
 from random import choice
 import sys
 

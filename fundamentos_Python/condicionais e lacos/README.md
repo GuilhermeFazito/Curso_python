@@ -25,6 +25,6 @@ Some os números de 1 a 100 com for.✅
 
 Conte quantos números entre 1 e 100 são múltiplos de 3.✅
 
-Implemente um menu simples com while e if.
+Implemente um menu simples com while e if.✅
 
 Crie um sistema que pergunta a senha e só permite acesso se estiver correta.
