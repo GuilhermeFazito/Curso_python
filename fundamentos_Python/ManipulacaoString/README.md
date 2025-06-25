@@ -14,9 +14,9 @@ Verifique se uma palavra é um palíndromo.✅
 
 Peça uma frase e conte quantas vogais tem.✅
 
-Peça nome completo e mostre só o primeiro nome.
+Peça nome completo e mostre só o primeiro nome.✅
 
-Peça um e-mail e separe o nome do usuário do domínio.
+Peça um e-mail e separe o nome do usuário do domínio.✅
 
 Troque todas as letras "a" por "@" em uma frase.
 
