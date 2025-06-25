@@ -20,8 +20,7 @@ Peça um e-mail e separe o nome do usuário do domínio.✅
 
 Troque todas as letras "a" por "@" em uma frase.✅
 
-
-Verifique se uma palavra existe dentro de uma frase.
+Verifique se uma palavra existe dentro de uma frase.✅
 
 Junte uma lista de palavras com vírgula entre elas.
 
