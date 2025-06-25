@@ -18,7 +18,8 @@ Peça nome completo e mostre só o primeiro nome.✅
 
 Peça um e-mail e separe o nome do usuário do domínio.✅
 
-Troque todas as letras "a" por "@" em uma frase.
+Troque todas as letras "a" por "@" em uma frase.✅
+
 
 Verifique se uma palavra existe dentro de uma frase.
 
