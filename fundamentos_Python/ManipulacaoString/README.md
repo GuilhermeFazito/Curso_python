@@ -12,7 +12,7 @@ Peça uma palavra e mostre ela ao contrário.✅
 
 Verifique se uma palavra é um palíndromo.✅
 
-Peça uma frase e conte quantas vogais tem.
+Peça uma frase e conte quantas vogais tem.✅
 
 Peça nome completo e mostre só o primeiro nome.
 
