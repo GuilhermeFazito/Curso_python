@@ -4,7 +4,7 @@ exercicios basicos sobre Listas e Dicionarios
 
 2. Solicite ao usuário 10 números e armazene-os em uma lista. Em seguida, exiba a lista na ordem inversa.✅
 
-3. Crie uma lista de frutas com pelo menos 3 elementos e adicione uma nova fruta ao final da lista.
+3. Crie uma lista de frutas com pelo menos 3 elementos e adicione uma nova fruta ao final da lista.✅
 
 4. Crie um dicionário com as chaves "nome", "idade" e "cidade", preenchendo com seus próprios dados.
 
