@@ -6,7 +6,7 @@ exercicios basicos sobre Listas e Dicionarios
 
 3. Crie uma lista de frutas com pelo menos 3 elementos e adicione uma nova fruta ao final da lista.✅
 
-4. Crie um dicionário com as chaves "nome", "idade" e "cidade", preenchendo com seus próprios dados.
+4. Solicite ao usuário o nome e a idade de 3 pessoas, armazenando essas informações em um dicionário.✅
 
-5. Solicite ao usuário o nome e a idade de 3 pessoas, armazenando essas informações em um dicionário.
+
 
